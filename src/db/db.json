@@ -1,0 +1,29 @@
+{
+	"users": [
+		{
+			"firstName": "John",
+			"lastName": "Doe",
+			"email": "john.doe@gmail.com",
+			"phone": "0712345678",
+			"dob": "1997-02-18",
+			"id": 1
+		},
+		{
+			"firstName": "Brian",
+			"lastName": "Cheruiyot",
+			"email": "brian@gmail.com",
+			"phone": "0712345678",
+			"dob": "1980-01-16",
+			"id": 2
+		},
+		{
+			"firstName": "Mark",
+			"lastName": "Mwichigi",
+			"email": "mark.mwichigi@gmail.com",
+			"phone": "0712345678",
+			"dob": "1795-01-16",
+			"id": 3
+		}
+	],
+	"posts": []
+}

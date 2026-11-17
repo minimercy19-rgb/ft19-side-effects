@@ -4,3 +4,7 @@
 	--font-sans: 'Inter', sans-serif;
 	--font-barlow: 'Barlow', sans-serif;
 }
+
+html {
+	scrollbar-gutter: stable;
+}

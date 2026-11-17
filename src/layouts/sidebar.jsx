@@ -29,7 +29,7 @@ const navlinks = [
 	},
 ];
 
-export default function Toggle() {
+export default function Sidebar() {
 	const [open, setOpen] = useState(true);
 
 	function handleToggle() {
